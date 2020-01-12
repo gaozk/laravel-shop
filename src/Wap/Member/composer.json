@@ -1,0 +1,17 @@
+{
+    "name": "gaozk\/laravel-shop-wap-member",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gaozhaokun-mac",
+            "email": "gaozhaokun@126.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Gaozk\\LaravelShop\\Wap\\Member\\": ""
+        }
+    }
+}

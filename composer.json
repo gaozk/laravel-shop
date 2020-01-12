@@ -1,0 +1,20 @@
+{
+    "name": "gaozk\/laravel-shop",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gaozhaokun-mac",
+            "email": "gzk1988@126.com"
+        }
+    ],
+    "require": {},
+    "replace": {
+        "gaozk/laravel-shop-wap-member": "self.version"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gaozk\\LaravelShop\\": "src"
+        }
+    }
+}
